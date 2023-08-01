@@ -1,4 +1,4 @@
-https://www.canva.com/design/DAFqUR58o_8/gpNkzkVeAYeWXETLbpw3eg/edit?utm_content=DAFqUR58o_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Samuel Kinyanjui is a guru in ICT and software development
 
 Am exprienced developer on;
 React
@@ -10,6 +10,17 @@ MsSQL server
 MySQL
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelkinyanjui)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Project done
+Corner stone project
+It is project produced using;
+local storage
+Javacsript ES6
+Javascript array
+Java script Queue algolithm
+Javasceipt Stack algolithm
+Css
 
 Lets talk via;
 
