@@ -1,16 +1,16 @@
-### Hi there 👋
+https://www.canva.com/design/DAFqUR58o_8/gpNkzkVeAYeWXETLbpw3eg/edit?utm_content=DAFqUR58o_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-<!--
-**samuelkinyanjui/samuelkinyanjui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Am exprienced developer on;
+React
+React native
+Java
+HTML5
+Oracle SQL
+MsSQL server
+MySQL
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelkinyanjui)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lets talk via;
+
+Whatsapp +254727770440
