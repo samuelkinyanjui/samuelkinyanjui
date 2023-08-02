@@ -19,7 +19,9 @@ It is a project produced using the;
 •	JavaScript Array
 •	JavaScript Queue algorithm
 •	JavaScript Stack algorithm
-•	Css
+•	CSS
+
+Am available to work and join any remote software company
 
 Let's talk via;
 
